@@ -8,12 +8,13 @@ import { getStorage } from 'firebase/storage';
 
 // إعدادات Firebase - سيتم استبدالها بالإعدادات الفعلية
 const firebaseConfig = {
-  apiKey: "your-api-key-here",
-  authDomain: "your-project.firebaseapp.com",
-  projectId: "your-project-id",
-  storageBucket: "your-project.appspot.com",
-  messagingSenderId: "123456789",
-  appId: "your-app-id"
+  apiKey: "AIzaSyDAJhctpg9gaDTaRa_sv9dYVxaoANFCzWc",
+  authDomain: "aanuni-33c7e.firebaseapp.com",
+  projectId: "aanuni-33c7e",
+  storageBucket: "aanuni-33c7e.firebasestorage.app",
+  messagingSenderId: "687728850541",
+  appId: "1:687728850541:web:f743d4faa7323b7713f164",
+  measurementId: "G-NP7KF8KWZS"
 };
 
 // تهيئة Firebase
